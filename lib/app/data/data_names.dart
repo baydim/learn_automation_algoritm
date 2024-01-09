@@ -3023,9 +3023,522 @@ Dye
 Dyer
 Dykes
 Dyson
+Calciform
+Piffling
+Spermatic
+Cattitude
+Scabrous
+Fricassee
+TanakDun
+Contraband
+Ecthlipsis
+Da_bushFlink
+Muscicapine
+AstruorBedlam
+XariekAroint
+Hockey2Yaws
+ModaLonge
+KarminSpoon
+Springhare
+Fantods
+Viceroy
+Mako2Vex
+Dowen0Dowlas
+Manifesto
+Cetology
+Mellifluous
+Veganic
+Scuttlebutt
+Mazzebah
+Snookered
+Plebania
+Diddlysquat
+Haurient
+Thingamajig
+RushighWhift
+GummaSnirt
+Biocentric
+Skedaddle
+Premorse
+Sassitude
+Impacable
+CaddoanChimp
+Pyretic
+Lothario
+Badious
+Kibosh
+Muftihvat
+Uggernaut
+Brattice
+Humdinger
+Mewling
+Hambone
+Iscariotic
+Brannigan
+Quietus
+Machinations
+Whipstaff
+Harebrained
+Chernozem
+Shenanigans
+Cormbam_555
+Crapulence
+Tegminal
+Yoyo
+Quaviver
+Freewheeling
+Dacryops
+Kalita
+Daphold123
+Cahoots
+Foofaraw
+Netiquette
+Contemn
+Subtle
+Chaetiferous
+Morass
+Assibilate
+Hangry
+Aerobiology
+Snafu
+Yahoopful
+Bellwether
+BladkYarmulke
+BladkWoning
+BladkSquamate
+BladkParados
+BladkTurgent
+BladkBefuddled
+BladkWashery
+BladkViertel
+BladkQuahog
+BladkQuale
+BladkAdespota
+BladkIlicic
+BladkIncommode
+BladkElation
+BladkStegmonth
+BladkRoseate
+BladkSyndetic
+BladkZelator
+BladkSignate
+BladkLumen
+BladkMilieu
+BladkPseudo
+BladkGig
+BladkHeadlong
+BladkCapric
+BladkAperitif
+BladkZizyphus
+BladkAnalemma
+BladkColophon
+BladkMacrobian
+RachisBladk
+SnugglyBladk
+VitiateBladk
+LaxismBladk
+ZorroBladk
+HeathBladk
+SnirtBladk
+VagilityBladk
+ChilgozaBladk
+SecernBladk
+PiloseBladk
+RemiformBladk
+UmpteenthBladk
+LintelBladk
+SublimeBladk
+LatrantBladk
+LuxBladk
+JuralBladk
+SeraglioBladk
+CepaceousBladk
+HarbingerBladk
+SvelteBladk
+SuccusBladk
+PercolateBladk
+MolossusBladk
+PetaryBladk
+ObventionBladk
+KrummhornBladk
+NectarealBladk
+CanonessBladk
+AdamasShofar
+AdamasRimple
+AdamasJobation
+AdamasVespal
+AdamasVoile
+AdamasBolar
+AdamasNigh
+AdamasBowsprit
+AdamasJessamy
+AdamasMonticle
+AdamasInglenook
+AdamasDolioform
+AdamasPieta
+AdamasLeviathan
+AdamasAscian
+AdamasUxoricide
+AdamasDubiety
+AdamasCusec
+AdamasDoodsie
+AdamasAgonistic
+AdamasHegemon
+AdamasPectuncle
+AdamasSeraphim
+AdamasResection
+AdamasTaniwha
+AdamasMird
+AdamasKeek
+AdamasTentation
+AdamasEarwig
+AdamasDisport
+JabotAdamas
+ZeteticAdamas
+EmpasmAdamas
+GrayAdamas
+SoothAdamas
+SlapdashAdamas
+IrrelateAdamas
+PalmyAdamas
+SeraglioAdamas
+DesuetudeAdamas
+EmulsifyAdamas
+GlomAdamas
+IllativeAdamas
+ChangeAdamas
+LimnerAdamas
+HomodontAdamas
+PaganwasAdamas
+DaphneanAdamas
+OpalwasAdamas
+RecognizeAdamas
+StartAdamas
+DisorbedAdamas
+TarbooshAdamas
+WashballAdamas
+DignityAdamas
+TakinAdamas
+NephricAdamas
+RiziformAdamas
+SacredAdamas
+LunulaAdamas
+ZurxtBabushka
+ZurxtAlienate
+ZurxtSerenade
+ZurxtDucdame
+ZurxtSwage
+ZurxtUndinism
+ZurxtKismet
+ZurxtSmazing
+ZurxtGladiator
+ZurxtWhorl
+ZurxtDesman
+ZurxtPhugoid
+ZurxtFatalism
+ZurxtElixir
+ZurxtSinapise
+ZurxtMewling
+ZurxtInventive
+ZurxtAnemone
+ZurxtSugillate
+ZurxtEnsconce
+ZurxtScarpines
+ZurxtMelanic
+ZurxtPyrrhous
+ZurxtUtinam
+ZurxtVow
+ZurxtNotaphily
+ZurxtCowcat
+ZurxtTayra
+ZurxtKincob
+ZurxtFantods
+LenitiveZurxt
+BumfluffZurxt
+SalariatZurxt
+DynamicZurxt
+NominatimZurxt
+TenderlyZurxt
+MuumuuZurxt
+AgallochZurxt
+LatriaZurxt
+QuislingZurxt
+CimicideZurxt
+WanZurxt
+VicinalZurxt
+DashZurxt
+JusZurxt
+JungliZurxt
+AggerZurxt
+PanurgicZurxt
+BreakneckZurxt
+GazpachoZurxt
+AmbrosiaZurxt
+BourgeoisZurxt
+ObvoluteZurxt
+ArrestantZurxt
+GardylooZurxt
+DugongZurxt
+ZymologyZurxt
+ZampognaZurxt
+TheomaniaZurxt
+WoolpackZurxt
+Suwito Mulyadi
+Wawan Situmorang
+Didin Hastuti
+Mansur Puspitasari
+Riski Rohmah
+Gunawan Simanjuntak
+Suparman Simanjuntak
+Suradi Utomo
+Dede Rohayati
+Rizki Hidayat
+Untung Haryati
+Acep Iskandar
+Saleh Aminah
+Lukman Masitoh
+Ibnu Panggabean
+Suroso Gulo
+Fajar Sitorus
+Mulyadi Prayitno
+Acep Hamdani
+Muhammad Janah
+Gede Ningrum
+Khairul Mariana
+Andika Pramono
+Chandra Halim
+Sukardi Manik
+Khairul Astuti
+Yohanes Nurhayati
+Abdullah Royani
+Yayan Susilawati
+Mujiono Sumarni
+Supriadi Hidayat
+Gede Solihin
+Sudirman Kurniawan
+Purnomo Astutik
+Idris Septiani
+Sutarno Yuliana
+Hari Manurung
+Mat Sopiah
+Eddy Andriani
+Ibrahim Rahmat
+Sutarno Ansori
+Muhamad Wahid
+Hery Budiman
+Muhamad Chandra
+Hadi Ernawati
+Dadan Khasanah
+Dadang Nur
+Ibnu Salim
+Nasir Khodijah
+Bayu Setiawati
+Wati Waruwu
+Astuti Aisyah
+Salma Rohimah
+Citra Hadi
+Yanti Susilawati
+Juliana Suryana
+Dedeh Manalu
+Ati Irawan
+Rosdiana Yanto
+Iin Kasim
+Heni Hutabarat
+Nia Supardi
+Irma Suryana
+Nuryati Mulyono
+Nuraeni Anggraeni
+Nyai Samosir
+Sari Putra
+Sunarti Maryati
+Yunita Wijayanti
+Henny Silalahi
+Fitria Hartini
+Indah Ismail
+Aminah Firmansyah
+Eva Komalasari
+Jamilah Budiman
+Fatimah Mustofa
+Suyati Nuraini
+Ira Oktavia
+Romlah Syah
+Eti Utomo
+Aminah Se
+Maya Wahyudi
+Devi Puspitasari
+Susi Hermanto
+Juju Nuryani
+Rini Harianto
+Lili Wati
+Susi Dewi
+Ramlah Nasir
+Yustina Utomo
+Sugiarti Efendi
+Rita Damanik
+Kartika Budiman
+Nining Supriyadi
+Kartika Supriatin
+Endah Wahyuni
+Dra Puspitasari
+Desy Pane
+Een Nurjanah
+Suparmi Marpaung
+Thomas Octavia
+Roy Indra
+Aufa Widian
+Ferhat Hafizh Utami
+Sutrisno Agustiana
+Cakra Isham
+Rifqy Fadhilah
+Yosua Indriastari
+Gusti Agustina
+Fandy Bintang Larasati
+Aulia Maharani
+Rheza Cahyadi
+Gilang Herdianti
+Aldo Tiodimar
+Dede Arieska
+Deristya Axel Sastrawan
+Rahardianto Ridho
+Wildan Shella
+Michael Hidayah
+Yuda Kartikasari
+Hafizh Manar
+Adisdi Nisrina
+Julius Wulandari
+Aswin Putra
+Alditio Vernanda
+Derilandry Alvianingrum
+Pratama Yahya
+Yusuf Mawarni
+Amar Fachria
+Khaznan Amaliya
+Omar Fauzunuria
+Riechal Susfa
+Jova Imran
+Irlan Rifqi
+Sofyan Ningsih
+Jhon Gultom
+Givan Ayudhani
+Deka Hutahaean
+Lukman Widyatama
+Muhammad Timothy Ardhi
+Aggil Wahyuni
+Ilyas Afini
+Yudha Obara
+Nauval Hizrian Apriyanto
+Sugraha Setya
+Ismail Melinda
+Fajri Kinandatsani
+Andrie Azhar
+Muhamad Fatimah
+Alvino Desiana
+Anton Juliyanto
+Aldi Fudhail
+Asyrafi Allen Indriastari
+Axel Asih
+I Hidayanti
+Azhar Pradana
+Khaznan Husnah
+Sigit Amaliya
+Michael Rugaya
+Tubagus Taufik Naradhipa
+Mirza Sjukri
+Alrendy Idayu
+Dicky Lalo
+Cakra Ruslian
+Bob Naomi
+Naufal Hosea
+Mario Andriawan Riany
+Reynaldi Cahyadi
+Andriawan Rangga Tarigan
+Andrilla Mulyanti
+Kenneth Krisnanto
+Syahrul Nurahmadhita
+Doni Ardiansyah
+Imam Wibowo
+Riechal Wijaya
+Radja Asjari
+Arie Giarini
+Givan Sukmamuliawanty
+Syarief Pratama
+Omar Delmeizar
+Sugraha Afwika
+Mustafid Mark Mandarasari
+Dede Dayanti
+Anugrah Faradillah
+Yusuf Malinda
+Reynard Ghifary
+Mubarak Kusuma
+Revo Julius Tanjung
+Sebastian Nustantomo
+Rinaldy Prasetyani
+Dee Sunanto
+Rutwan Juwita
+Irlan Faishal Brian
+Farizi Amelia
+Devito Antoni
+Permana Oktazilvia
+Taufik Agustina
+Ressy Hartanto
+Pandu Mukaffi
+Zulfi Wahyuningtias
+Aldo Carolina
+Asyrafi Elvin Satrio
+Haikal Octaza
+Hafizh Tenriajeng
+Maruto Nugraha
+Aburachman Nurkhayati
+Singgih Rezky Habiba
+Berian Prapastia
+Mustafid Singgih Anjani
+Dhika Hayati
+Anas Cansan
+Fariz Sasna
+Farizi Juliyanto
+Priyohadi Syaraswati
+Khaznan Johirin
+Aristyo Syahrani
+Permana Susfa
+Rifqi Satrya Andrawida
+Hizrian Joseph Aurealia
+Dicky Radja Journalisanda
+Adityo Rais
+Rifat Claudia
+Allen Herlin
+Firdaus Satria
+Garin Hafizh Izhar
+Andi Priyohadi Oktazilvia
+Bimo Halim
+Marza Selenia
+Edwin Ivangkia
+Andhicha Mochammad Nisa
+Rahardianto Dicky Amaliya
+Jova Septian
+Avicenna Wira
+Praditia Wicaksono
+Bryan Okky Kurniansyah
+Omar Nadya
+Anton Desiana
+Edy Isnaini
+Jeremy Khairunisa
+Aggil Tio
+Muhammad Khasanah
+Rutwan Resa
+Ferdiansyah Melinda
+Yola Nopilianti
+Cardito Pulandathi
+Marvel Rahardianto Ardiansyah
+Geraldi Antoni
+Adam Ari Rozi
+Farqy Sabrina
+Syaibatul Andjani
 """;
 
 Future<List<String>> names() async {
-  var data = rawNames.split('\n');
+  var data = rawNames
+      .split(RegExp(r'\n| '))
+      .where((e) => e.trim().isNotEmpty)
+      .toList();
   return data;
 }

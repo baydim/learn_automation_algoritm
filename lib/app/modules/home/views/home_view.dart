@@ -31,21 +31,56 @@ class HomeView extends GetView<HomeController> {
                   crossAxisAlignment: CrossAxisAlignment.start,
                   mainAxisAlignment: MainAxisAlignment.start,
                   children: [
-                    TextField(
-                      controller: controller.textEditingController,
-                      onChanged: (v) {
-                        if (v.isNumericOnly) {
-                          debouce.call(
-                            () {
-                              controller.jumlahKelompok.value = int.parse(v);
-                              controller.funcRunBagiKelompok();
+                    Row(
+                      children: [
+                        Expanded(
+                          child: TextField(
+                            decoration: InputDecoration(
+                              labelText: "Kelompok",
+                            ),
+                            controller: controller.textEditingController,
+                            onChanged: (v) {
+                              if (v.isNumericOnly) {
+                                debouce.call(
+                                  () {
+                                    controller.jumlahKelompok.value = int.parse(
+                                      controller.textEditingController.text,
+                                    );
+                                    controller.funcRunBagiKelompok();
+                                  },
+                                );
+                              } else {
+                                controller.jumlahKelompok.value = 1;
+                                controller.funcRunBagiKelompok();
+                              }
                             },
-                          );
-                        } else {
-                          controller.jumlahKelompok.value = 1;
-                          controller.funcRunBagiKelompok();
-                        }
-                      },
+                          ),
+                        ),
+                        SizedBox(
+                          width: 20,
+                        ),
+                        Expanded(
+                          child: TextField(
+                            decoration: InputDecoration(
+                              labelText: "Anggota yang masuk",
+                            ),
+                            controller: controller.anggotaController,
+                            onChanged: (v) {
+                              if (v.isNumericOnly) {
+                                debouce.call(
+                                  () {
+                                    controller.jumlahAnggota.value =
+                                        int.parse(v);
+                                    controller.funcRunBagiKelompok();
+                                  },
+                                );
+                              } else {
+                                controller.funcRunBagiKelompok();
+                              }
+                            },
+                          ),
+                        ),
+                      ],
                     ),
                     const SizedBox(
                       height: 5,

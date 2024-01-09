@@ -14,12 +14,14 @@ class HomeController extends GetxController {
   final jumlahKelompok = 1.obs;
   final dataFinalKelompok = <ModelKelompok>[].obs;
   final TextEditingController textEditingController = TextEditingController();
+  final TextEditingController anggotaController = TextEditingController();
   final dataFinalNamaDanJumlahSetiapKelompok =
       <ModelNamaDanJumlahSetiapKelompok>[].obs;
   Future<List<Map<String, dynamic>>> bagiKelompok(
       List<String> namas, int jumlahKelompok) async {
     List<String> nama = [];
     nama.addAll(namas);
+
     nama.shuffle();
     int namaPerKelompok = (nama.length / jumlahKelompok).ceil();
     List<Map<String, dynamic>> kelompok = [];
